@@ -1,7 +1,17 @@
 # Solución reto 5
-### Todas las soluciones están en el jupyter adjunto, sin embargo, acá algunas aclaraciones:
+### Soy Alejandro Bello y pertenezco al grupo de "Fenomenoides", adjunto nuestro logo: 
+
+<details><summary>Preparense para ver el grandioso logo: </summary><p>
+<div align='center'>
+<figure> <img src="https://i.postimg.cc/NFbwf57S/logo-def.png" alt="Defensa Civil" width="400" height="auto"/></br>
+<figcaption><b> "somos programadores, no diseñadores" </b></figcaption></figure>
+</div>
+</p></details><br>
+
+### Todas las soluciones están en el archivo reto_5.ipynb adjunto, sin embargo, acá algunas aclaraciones:
 ```python
 # acá están todas las funciones usadas en el literal 7
+
 def hallar_promedio(numeros:list):
   promedio_reales = 0
   for numero in numeros:
