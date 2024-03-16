@@ -1,4 +1,4 @@
-# Solución reto 5
+# Solución reto 6
 ### Soy Alejandro Bello y pertenezco al grupo de "Fenomenoides", adjunto nuestro logo: 
 
 <details><summary>Preparense para ver el grandioso logo: </summary><p>
