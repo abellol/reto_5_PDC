@@ -12,7 +12,6 @@
 [![image.png](https://i.postimg.cc/63S6j3rt/image.png)](https://postimg.cc/XGf0Xn1z)
 
 ```python
-# acá están todas las funciones usadas en el literal 7
 import math
 pi:float=math.pi
 
